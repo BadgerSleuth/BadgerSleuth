@@ -1,4 +1,7 @@
-# 🕵️ Welcome to the Badger's Den | Bienvenue dans le terrier du Détective
+<p align="center">
+  <img src="avatar_g$.jpg" width="200" title="The Bug Detective">
+</p>
+# Welcome to the Badger's Den | Bienvenue dans le terrier du Détective
 
 > "A bug is never a matter of luck; it's just a truth waiting to be discovered."
 
